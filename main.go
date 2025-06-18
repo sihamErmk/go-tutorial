@@ -15,4 +15,5 @@ func main() {
 	// another  way  to declare variables
 	name2 := "Ereh"
 	fmt.Println(name2)
+	//test
 }
